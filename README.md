@@ -6,3 +6,5 @@
 * Restore Database Siswaskeudes
 * Buka Siswaskeudes dan Seting Konfigurasi
 
+## FAQ
+[FAQ](https://github.com/rioda78/Diklat-Siswaskeudes/tree/main/Faq/faq.md)
