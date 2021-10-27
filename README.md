@@ -7,4 +7,4 @@
 * Buka Siswaskeudes dan Seting Konfigurasi
 
 ## FAQ
-[FAQ](https://github.com/rioda78/Diklat-Siswaskeudes/blob/main/Faq/Readme.md)
+[Faq](Faq.md)
